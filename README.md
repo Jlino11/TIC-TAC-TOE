@@ -1,1 +1,1 @@
-My first game in python
+My projects in python
